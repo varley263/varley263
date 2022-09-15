@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varley263 [VARLEY LAWSON VALEA]
 - 👀 I’m interested in solving problems using the latest technologies
--💻 Angular Developer
+- 💻 Angular Developer
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on any python,java or c# project
 - 📫 How to reach me valea varley @valeavarley@gmail.com
